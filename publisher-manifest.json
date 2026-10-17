@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f2fa3675badea10070ed8c90",
+  "owner": "yynhkmfhy",
+  "repo": "page-f918513dfa6a2523109f254a",
+  "title": "云梯(Yunti)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f918513dfa6a2523109f254a",
+      "a": "云梯(Yunti)",
+      "b": "",
+      "entity": "云梯(Yunti)",
+      "brand": "云梯(Yunti)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "13eba0799fffd0c085b25e4858cb031c2a8631f8bb1f529a1b260c35bcbbc962",
+      "content": {
+        "keyword1": "云梯(Yunti)",
+        "keyword2": "",
+        "primary_entity": "云梯(Yunti)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云梯(Yunti)按使用场景区分三档套餐：基础版、旗舰版、团队版，分别对应不同流量、设备数与节点策略，配以清晰的按月与按年价格与权益说明。",
+          "AI_DESCRIPTION": "云梯(Yunti)按使用场景区分三档套餐：基础版、旗舰版、团队版，分别对应不同流量、设备数与节点策略，配以清晰的按月与按年价格与权益说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml{-webkit-text-size-adjust:100%}\nbody{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;color:#0c1a2b;background:#f4f1ea;line-height:1.65;font-size:16px}\na{color:inherit;text-decoration:none}\nh1,h2,h3{margin:0;font-weight:600;letter-spacing:-0.01em}\nh1{font-size:clamp(2.4rem,6vw,4.2rem);line-height:1.05;color:#08203a}\nh2{font-size:clamp(1.4rem,3.4vw,2.1rem);line-height:1.2;color:#08203a;margin-bottom:1rem}\nh3{font-size:1.05rem;color:#08203a;margin-bottom:0.6rem}\np{margin:0 0 1rem}\nul{margin:0;padding:0;list-style:none}\nhr{border:none;border-top:1px solid #d6cdb8;margin:3rem 0}\n\n.wrap{max-width:1180px;margin:0 auto;padding:0 1.25rem}\n.hero{padding:3.5rem 0 4rem}\n.hero-grid{display:grid;grid-template-columns:1fr 1.2fr;gap:3rem;align-items:center}\n.hero-text{max-width:520px}\n.kicker{display:inline-block;font-size:0.78rem;letter-spacing:0.32em;text-transform:uppercase;color:#7a8597;border-left:3px solid #b8893a;padding-left:0.7rem;margin-bottom:1.2rem}\n.lede{font-size:1.05rem;color:#3b4a63;margin-top:1.2rem;max-width:32em}\n.anchor-tabs{display:flex;flex-wrap:wrap;gap:0.5rem;margin-top:2rem}\n.anchor-tabs a{font-size:0.82rem;color:#3b4a63;padding:0.45rem 0.9rem;border-radius:999px;background:#ffffff;border:1px solid #e2dac7;transition:all .2s}\n.anchor-tabs a:hover{background:#08203a;color:#f4f1ea;border-color:#08203a}\n\n.hero-art{position:relative;min-height:380px}\n.plate{position:absolute;background:#fff;border-radius:24px;box-shadow:0 18px 40px -18px rgba(8,32,58,0.18);padding:1.4rem}\n.plate .lbl{font-size:0.7rem;letter-spacing:0.18em;color:#7a8597;text-transform:uppercase;margin-bottom:0.6rem}\n.plate .val{font-size:1.6rem;font-weight:600;color:#08203a}\n.plate .sub{font-size:0.8rem;color:#7a8597;margin-top:0.2rem}\n.p1{top:0;left:0;width:220px}\n.p2{top:80px;right:0;width:200px;background:#08203a;color:#f4f1ea}\n.p2 .val{color:#f4f1ea}\n.p2 .lbl,.p2 .sub{color:#9fb2c8}\n.p3{bottom:0;left:60px;width:240px}\n.p3 .meter{height:8px;background:#efe9da;border-radius:4px;margin-top:0.8rem;overflow:hidden}\n.p3 .meter span{display:block;height:100%;width:62%;background:#b8893a}\n\nsection{padding:4rem 0;border-top:1px solid #e2dac7}\nsection:first-of-type{border-top:none}\n.eyebrow{font-size:0.75rem;letter-spacing:0.3em;text-transform:uppercase;color:#b8893a;margin-bottom:1rem}\n.lead{max-width:42em;color:#3b4a63}\n\n.flow{margin-top:2.5rem;display:grid;gap:1.5rem}\n.step{display:grid;grid-template-columns:auto 1fr;gap:1.2rem;padding:1.4rem;background:#fff;border-radius:20px;box-shadow:0 14px 30px -20px rgba(8,32,58,0.15)}\n.step .n{font-family:\"Georgia\",serif;font-size:2.2rem;color:#b8893a;line-height:1}\n.step h3{margin:0 0 0.4rem}\n.step p{color:#3b4a63;font-size:0.95rem;margin:0}\n\n.ladder{margin-top:2.5rem;display:grid;gap:1.25rem}\n.tier{display:grid;grid-template-columns:260px 1fr;gap:1.5rem;background:#fff;border-radius:24px;padding:1.6rem;box-shadow:0 16px 34px -20px rgba(8,32,58,0.18);position:relative}\n.tier.featured{background:#08203a;color:#f4f1ea}\n.tier.featured h3,.tier.featured .price b{color:#f4f1ea}\n.tier.featured .price small,.tier.featured ul li::before{color:#e2b06b}\n.tier .head h3{font-size:1.3rem;margin-bottom:0.3rem}\n.tier .head .tag{display:inline-block;font-size:0.7rem;letter-spacing:0.16em;text-transform:uppercase;color:#b8893a;border:1px solid #b8893a;padding:0.15rem 0.5rem;border-radius:4px;margin-bottom:0.6rem}\n.tier.featured .head .tag{color:#f4f1ea;border-color:#b8893a}\n.price{font-size:1.6rem;margin:0.6rem 0 0.3rem}\n.price b{color:#08203a}\n.price small{display:block;font-size:0.8rem;color:#7a8597;margin-top:0.2rem}\nul.feats{display:grid;gap:0.5rem}\nul.feats li{font-size:0.92rem;padding-left:1.2rem;position:relative;color:#3b4a63}\n.tier.featured ul.feats li{color:#dfe6ee}\nul.feats li::before{content:\"—\";color:#b8893a;position:absolute;left:0}\n\n.compare{margin-top:2.5rem;background:#fff;border-radius:24px;box-shadow:0 16px 34px -22px rgba(8,32,58,0.18);overflow:hidden}\ntable{width:100%;border-collapse:collapse;font-size:0.92rem}\nth,td{padding:1rem 1.2rem;text-align:left;border-bottom:1px solid #efe9da}\nth{background:#f8f4ea;font-weight:600;color:#08203a;font-size:0.78rem;letter-spacing:0.16em;text-transform:uppercase}\ntr:last-child td{border-bottom:none}\ntd b{color:#08203a}\n\n.faq{margin-top:2.5rem}\n.faq-group{margin-bottom:2rem}\n.faq-group h3{font-size:1rem;letter-spacing:0.1em;color:#b8893a;text-transform:uppercase;margin-bottom:1rem}\ndetails{background:#fff;border-radius:16px;padding:0.9rem 1.2rem;margin-bottom:0.6rem;box-shadow:0 8px 18px -14px rgba(8,32,58,0.15)}\nsummary{cursor:pointer;font-weight:600;color:#08203a;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:1rem}\nsummary::-webkit-details-marker{display:none}\nsummary::after{content:\"+\";color:#b8893a;font-size:1.2rem;font-weight:400;transition:transform .2s}\ndetails[open] summary::after{content:\"−\"}\ndetails p{margin:0.8rem 0 0;color:#3b4a63;font-size:0.93rem}\n\n.clients{margin-top:2.5rem;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem}\n.client{background:#fff;border-radius:18px;padding:1.2rem;box-shadow:0 12px 24px -18px rgba(8,32,58,0.15)}\n.client .os{font-size:0.72rem;letter-spacing:0.2em;color:#b8893a;text-transform:uppercase}\n.client h3{margin:0.4rem 0 0.6rem;font-size:1rem}\n.client p{color:#3b4a63;font-size:0.88rem;margin:0}\n\n.foot{padding:3rem 0 4rem;color:#7a8597;font-size:0.82rem;text-align:center}\n\n@media (max-width:860px){\n.hero-grid{grid-template-columns:1fr;gap:2rem}\n.hero-art{min-height:280px}\n.tier{grid-template-columns:1fr}\n.compare{display:block;overflow-x:auto}\n}\n@media (max-width:520px){\n.hero{padding:2.2rem 0 3rem}\nsection{padding:3rem 0}\n.plate{position:relative;margin-bottom:0.8rem}\n.p1,.p2,.p3{position:relative;top:auto;left:auto;right:auto;bottom:auto;width:100%}\n}\n</style><main>\n<header class=\"hero\">\n<div class=\"wrap\">\n<div class=\"hero-grid\">\n<div class=\"hero-text\">\n<span class=\"kicker\">Yunti · 服务说明</span>\n<h1>云梯(Yunti) · 云梯<br>Yunti</h1>\n<p class=\"lede\">按使用场景区分三档套餐，每月或按年付费，清晰写明流量、设备数与节点权限，方便直接对号入座。</p>\n<nav class=\"anchor-tabs\">\n<a href=\"#how\">使用方式</a>\n<a href=\"#plans\">套餐价格</a>\n<a href=\"#compare\">权益对比</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n<div class=\"hero-art\">\n<div class=\"plate p1\">\n<div class=\"lbl\">节点池</div>\n<div class=\"val\">三档入口</div>\n<div class=\"sub\">按套餐解锁范围</div>\n</div>\n<div class=\"plate p2\">\n<div class=\"lbl\">本月已选</div>\n<div class=\"val\">旗舰版</div>\n<div class=\"sub\">5 台设备 · IPLC</div>\n</div>\n<div class=\"plate p3\">\n<div class=\"lbl\">流量进度</div>\n<div class=\"val\">186 / 300 GB</div>\n<div class=\"meter\"><span></span></div>\n<div class=\"sub\">周期内累积用量</div>\n</div>\n</div>\n</div>\n</div>\n</header>\n\n<section id=\"how\">\n<div class=\"wrap\">\n<div class=\"eyebrow\">使用方式</div>\n<h2>从订阅到连接的四个步骤</h2>\n<p class=\"lead\">订阅后通过订阅链接添加节点，所有步骤均在客户端内完成，不依赖额外脚本或外部服务。</p>\n<div class=\"flow\">\n<div class=\"step\">\n<div class=\"n\">01</div>\n<div>\n<h3>选择套餐</h3>\n<p>在套餐页面确定流量额度与设备数，并选定支付周期（按月或按年）。</p>\n</div>\n</div>\n<div class=\"step\">\n<div class=\"n\">02</div>\n<div>\n<h3>获取订阅链接</h3>\n<p>支付完成后，在用户中心复制对应套餐的订阅链接，链接包含节点信息与权限标识。</p>\n</div>\n</div>\n<div class=\"step\">\n<div class=\"n\">03</div>\n<div>\n<h3>导入客户端</h3>\n<p>将订阅链接粘贴至所选设备的客户端，由其自动同步节点列表与延迟信息。</p>\n</div>\n</div>\n<div class=\"step\">\n<div class=\"n\">04</div>\n<div>\n<h3>选择节点连接</h3>\n<p>在客户端中按需挑选节点，关注延迟与用途标签即可，套餐权限决定可选范围。</p>\n</div>\n</div>\n</div>\n</div>\n</section>\n\n<section id=\"plans\">\n<div class=\"wrap\">\n<div class=\"eyebrow\">套餐价格</div>\n<h2>阶梯式三档，按需选择</h2>\n<p class=\"lead\">从基础到团队，价格、流量与设备数依次提升；按年付费较按月一次性结算。</p>\n<div class=\"ladder\">\n<article class=\"tier\">\n<div class=\"head\">\n<span class=\"tag\">入门</span>\n<h3>基础版</h3>\n<div class=\"price\"><b>¥15</b><small>/月</small></div>\n<small>按年付仅需 ¥150/年</small>\n</div>\n<ul class=\"feats\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"tier featured\">\n<div class=\"head\">\n<span class=\"tag\">推荐</span>\n<h3>旗舰版</h3>\n<div class=\"price\"><b>¥35</b><small>/月</small></div>\n<small>按年付仅需 ¥350/年</small>\n</div>\n<ul class=\"feats\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"tier\">\n<div class=\"head\">\n<span class=\"tag\">企业</span>\n<h3>团队版</h3>\n<div class=\"price\"><b>¥85</b><small>/月</small></div>\n<small>按年付仅需 ¥850/年</small>\n</div>\n<ul class=\"feats\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"compare\">\n<div class=\"wrap\">\n<div class=\"eyebrow\">权益对比</div>\n<h2>三档差异一览</h2>\n<p class=\"lead\">以下条目按常见选购维度排列，方便横向比对。</p>\n<div class=\"compare\">\n<table>\n<thead>\n<tr><th>对比项</th><th>基础版</th><th>旗舰版</th><th>团队版</th></tr>\n</thead>\n<tbody>\n<tr><td><b>月流量</b></td><td>100 GB</td><td>300 GB</td><td>1000 GB</td></tr>\n<tr><td><b>同时在线</b></td><td>3 台</td><td>5 台</td><td>20 台</td></tr>\n<tr><td><b>流媒体解锁</b></td><td>基础</td><td>原生全节点</td><td>原生全节点</td></tr>\n<tr><td><b>专线优化</b></td><td>—</td><td>IPLC 游戏加速</td><td>企业定制路由</td></tr>\n<tr><td><b>客户支持</b></td><td>常规工单</td><td>7x24 优先工单</td><td>专属客户经理</td></tr>\n<tr><td><b>月付价格</b></td><td>¥15</td><td>¥35</td><td>¥85</td></tr>\n<tr><td><b>年付价格</b></td><td>¥150</td><td>¥350</td><td>¥850</td></tr>\n</tbody>\n</table>\n</div>\n</div>\n</section>\n\n<section id=\"clients\">\n<div class=\"wrap\">\n<div class=\"eyebrow\">客户端与平台</div>\n<h2>可在多平台使用</h2>\n<p class=\"lead\">订阅链接与主流客户端兼容，具体可用软件视系统而定，请以设备当前可安装的应用为准。</p>\n<div class=\"clients\">\n<article class=\"client\">\n<div class=\"os\">Windows</div>\n<h3>桌面端</h3>\n<p>适用于 Windows 系统的桌面客户端，安装后导入订阅链接即可同步节点。</p>\n</article>\n<article class=\"client\">\n<div class=\"os\">macOS</div>\n<h3>桌面端</h3>\n<p>适用于 macOS 的桌面客户端，与其他平台共用同一订阅地址。</p>\n</article>\n<article class=\"client\">\n<div class=\"os\">iOS</div>\n<h3>移动端</h3>\n<p>在 iOS 设备上可通过对应移动客户端添加订阅，按系统提示完成配置。</p>\n</article>\n<article class=\"client\">\n<div class=\"os\">Android</div>\n<h3>移动端</h3>\n<p>Android 设备支持常见移动客户端，请以应用商店实际可下载版本为准。</p>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"faq\">\n<div class=\"wrap\">\n<div class=\"eyebrow\">常见问题</div>\n<h2>按主题分组</h2>\n<p class=\"lead\">下单、配置与套餐相关的常见疑问整理如下，如仍有未覆盖之处，可咨询页面内提供的支持渠道。</p>\n<div class=\"faq\">\n<div class=\"faq-group\">\n<h3>套餐与计费</h3>\n<details>\n<summary>按月和按年付费有什么区别？</summary>\n<p>两者提供的节点与权限完全一致，仅结算方式不同：按月付款灵活，按年付款为整年一次性结算，金额在套餐页已明确列出。</p>\n</details>\n<details>\n<summary>套餐之间可以升级或降级吗？</summary>\n<p>可以。在当前周期结束后，可选择切换至其他档位，新周期按所选档位的费用结算，订阅链接与权限将同步刷新。</p>\n</details>\n<details>\n<summary>流量是如何计算的？</summary>\n<p>流量按自然月累计统计，所有通过节点产生的上下行流量均计入用量，可在用户中心查看周期内的实时进度。</p>\n</details>\n</div>\n<div class=\"faq-group\">\n<h3>设备与节点</h3>\n<details>\n<summary>支持多少台设备同时在线？</summary>\n<p>基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台，可在用户中心查看当前登录设备的占用情况。</p>\n</details>\n<details>\n<summary>是否区分节点类型？</summary>\n<p>区分。基础版对应普通线路节点池，旗舰版在普通节点之上加入 IPLC 专线，团队版提供专属高带宽节点与企业定制路由。</p>\n</details>\n<details>\n<summary>设备更换平台需要重新订阅吗？</summary>\n<p>不需要。订阅链接与平台无关，在任意支持的客户端内粘贴同一链接即可拉取对应的节点列表。</p>\n</details>\n</div>\n<div class=\"faq-group\">\n<h3>使用与支持</h3>\n<details>\n<summary>流媒体解锁支持哪些服务？</summary>\n<p>基础版支持基础类流媒体，旗舰版与团队版在此基础上提供更完整的原生解锁范围，具体以客户端内显示为准。</p>\n</details>\n<details>\n<summary>遇到问题如何获得帮助？</summary>\n<p>旗舰版提供 7x24 优先工单支持，团队版配备专属客户经理，基础版走常规工单处理流程。</p>\n</details>\n<details>\n<summary>是否提供退款？</summary>\n<p>退款规则以购买页与协议中公示的条款为准，建议在购买前仔细阅读相关说明。</p>\n</details>\n</div>\n</div>\n</div>\n</section>\n\n<footer class=\"foot\">\n<div class=\"wrap\">云梯 Yunti · 以上价格、内容及权益以本页与购买页说明为准。</div>\n</footer>\n</main>",
+          "hash": "5275932e05dba6bbd2df012762f6bb9c32f5e8c31e4a820cfb4939bcbdf166a7",
+          "seo": {
+            "title": "云梯 Yunti | 套餐与节点说明",
+            "keywords": "云梯,Yunti,机场,节点,套餐,流量,设备数,IPLC,流媒体",
+            "description": "云梯(Yunti)按使用场景区分三档套餐：基础版、旗舰版、团队版，分别对应不同流量、设备数与节点策略，配以清晰的按月与按年价格与权益说明。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "9902",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lbuptni.cn",
+    "host": "p-f9271ebbc2.lbuptni.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ed155ca633505f8b4ade20709b2cbfc9470b965cdda260a816d89099a34e3eff",
+    "sitemap.xml": "2ec5f40603af5e0d36705521697ad1a4dbc9066a766e2a2128555985ad9f1f9a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fec2f7ac441758dc670ac3a84ae8d314f9f178b96f83a0ffcec9ddc82a6a05ee",
+    "robots.txt": "611dbd367509b7cea751986e7f49cb41c9339680de31afa1e8173d5ac939facd",
+    "27dc09580f3faf07dc0eea5e110981dd.txt": "70bc2465cd9da6673f72d94b06c95148aef7d0bc2dfde1a89815358564564272"
+  },
+  "revision": "83f0f31540a6afcf51b6a163fe9991ae47de2ca4f774caf016472741e6cf8a7c"
+}

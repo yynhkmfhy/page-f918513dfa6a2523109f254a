@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f9271ebbc2.lbuptni.cn/sitemap.xml
